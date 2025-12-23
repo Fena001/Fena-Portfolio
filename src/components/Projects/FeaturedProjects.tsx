@@ -9,7 +9,7 @@ const FeaturedProjects = () => {
         "A productivity Chrome Extension built with React.js and Manifest V3. Implements the declarativeNetRequest API for privacy-preserving website blocking and the Offscreen Document API for persistent background audio.",
       tags: ["React.js", "Chrome API", "Service Workers", "Manifest V3"],
       links: {
-        github: "https://github.com/Fena001",
+        github: "https://github.com/Fena001/Deep-Work",
         external: "#"
       }
     },
@@ -20,7 +20,7 @@ const FeaturedProjects = () => {
         "A random audio calling app built with Kotlin and Jetpack Compose. engineered real-time peer-to-peer audio communication using WebRTC and managed secure user authentication via Firebase.",
       tags: ["Kotlin", "Jetpack Compose", "WebRTC", "Firebase", "MVVM"],
       links: {
-        github: "https://github.com/Fena001",
+        github: "https://github.com/Fena001/Omegle",
         external: "#"
       }
     },

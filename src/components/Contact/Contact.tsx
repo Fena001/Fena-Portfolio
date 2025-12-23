@@ -47,12 +47,6 @@ const Contact = () => {
       </div>
 
       <footer className="max-w-md pb-16 text-sm text-neutral-500 sm:pb-0 mt-24">
-        <p>
-          Designed in Figma and coded in Visual Studio Code. Built with React.js and Tailwind CSS, deployed with Vercel.
-        </p>
-        <p className="mt-2">
-            Inspired by <a href="https://brittanychiang.com" className="hover:text-green" target="_blank" rel="noreferrer">Brittany Chiang</a>.
-        </p>
       </footer>
     </section>
   );
